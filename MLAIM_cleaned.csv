@@ -1,0 +1,34 @@
+N,Nom,Prenom,Date_Naissance,Ville_Naissance,Age,Email,Accepted
+1,AIT EL FATMI,YOUSSEF,2000-09-03,FES,25,aitelfatmi.youssef@usmba.ac.ma,NO
+2,AJJAL,ISMAIL,2003-12-08,RABAT,22,ajjal.ismail@usmba.ac.ma,NO
+3,AMILA,AYMANE,1994-06-28,FES,31,amila.aymane@usmba.ac.ma,NO
+4,AZOUGH,YAHYA,2002-11-25,TANGER,23,azough.yahya@usmba.ac.ma,NO
+5,BAH,MAMADOU OURY,2003-10-19,DAKHLA,22,bah.mamadououry@usmba.ac.ma,NO
+6,BAYAD,OTMAN,1999-08-08,MEKNES,26,bayad.otman@usmba.ac.ma,NO
+7,BOUSBAA,KENZA,2004-01-23,FES,22,bousbaa.kenza@usmba.ac.ma,YES
+8,BRIKA,SALMA,2001-01-01,RABAT,25,brika.salma@usmba.ac.ma,NO
+9,CHIAHNI,MAROUANE,2002-02-28,MEKNES,24,chiahni.marouane@usmba.ac.ma,YES
+10,DELICIEUX,CALEB,1998-05-16,FES,27,delicieux.caleb@usmba.ac.ma,NO
+11,ECHIBI,RAJAE,1992-02-29,FES,34,echibi.rajae@usmba.ac.ma,NO
+12,EL BASSRI,YASSINE,1995-10-08,NADOR,30,elbassri.yassine@usmba.ac.ma,NO
+14,EL BOURAKADI,KHADIJA,2002-11-25,TANGER,23,elbourakadi.khadija@usmba.ac.ma,NO
+15,EL FELLAK,HAJAR,2003-12-08,RABAT,22,elfellak.hajar@usmba.ac.ma,NO
+16,EL HADRI,AYA,2002-02-28,MEKNES,24,elhadri.aya@usmba.ac.ma,YES
+17,EL HANSALI,HAFSSA,2004-01-23,FES,22,elhansali.hafssa@usmba.ac.ma,YES
+18,EL MOQADEM,AYMANE MOUBARIK,1994-06-28,FES,31,elmoqadem.aymanemoubarik@usmba.ac.ma,NO
+19,EL MOUHADDANA,YASSINE,1999-08-08,MEKNES,26,elmouhaddana.yassine@usmba.ac.ma,NO
+20,EL-MAKHLOUFI,MOHAMMED,2001-01-01,RABAT,25,elmakhloufi.mohammed@usmba.ac.ma,NO
+22,ET-TAALABI,SEFIANE,1992-02-29,RABAT,34,ettaalabi.sefiane@usmba.ac.ma,NO
+24,GUARTET,ABDESSLAM,1994-06-28,FES,31,guartet.abdesslam@usmba.ac.ma,NO
+26,JAAFARI,NASRELLAH,1999-08-08,MEKNES,26,jaafari.nasrellah@usmba.ac.ma,NO
+27,MAACHI,ABDELLAH,2002-11-25,TANGER,23,maachi.abdellah@usmba.ac.ma,NO
+28,MELIANI,ROMAISSA,2000-09-03,FES,25,meliani.romaissa@usmba.ac.ma,NO
+29,MEYABA,MOHAMED VALL,2003-08-12,RABAT,22,meyaba.mohamedvall@usmba.ac.ma,NO
+30,MIME,SAAD,1994-06-28,FES,31,mime.saad@usmba.ac.ma,NO
+31,NDIAYE,MOUHAMED NAZIROU,2002-11-25,TANGER,23,ndiaye.mouhamednazirou@usmba.ac.ma,NO
+32,N'MAR,HAJAR,2003-10-19,DAKHLA,22,nmar.hajar@usmba.ac.ma,NO
+33,OUHCHOUCH,ZAKARIA,1999-08-08,MEKNES,26,ouhchouch.zakaria@usmba.ac.ma,NO
+34,QATAOUI,AYA,2004-01-23,FES,22,qataoui.aya@usmba.ac.ma,YES
+35,RAJOUANI,FAYSAL,2001-01-01,RABAT,25,rajouani.faysal@usmba.ac.ma,NO
+36,RAKTA,NISRINE,2002-02-28,MEKNES,24,rakta.nisrine@usmba.ac.ma,YES
+37,ZAHIR,MOHAMMED,1998-05-16,FES,27,zahir.mohammed@usmba.ac.ma,NO
